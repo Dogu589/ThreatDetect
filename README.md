@@ -15,3 +15,9 @@
 #### Bu araç, özellikle siber güvenlik uzmanları ve bilinçli internet kullanıcıları için geliştirilmiş olup, güvenliğinizi artırmanıza yardımcı olur. Şüpheli bağlantıları analiz ederek riskleri önceden tespit edebilir ve internet deneyiminizi daha güvenli hale getirebilirsiniz.
 
 #### 💡 Bağlantılarınızı şimdi kontrol edin ve güvende kalın!
+
+
+
+
+https://github.com/user-attachments/assets/294f5115-69a4-4f9c-877e-1a9665eb4892
+
