@@ -1,5 +1,6 @@
 # Threat Detect
-![Ekran_görüntüsü_2025-03-22_235815-removebg-preview](https://github.com/user-attachments/assets/d8273328-4565-4e14-a53b-b43d578d9292)
+![resim](https://github.com/user-attachments/assets/4adcbfa7-91b9-4ba8-8078-8bf6d550cbd3)
+
 
 ## Zararlı Bağlantı Analiz Aracı
 
