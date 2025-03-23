@@ -16,8 +16,11 @@
 
 #### 💡 Bağlantılarınızı şimdi kontrol edin ve güvende kalın!
 
+### Proje Bağlantısı
+#### https://threatdetect.rf.gd/
 
-
+### Yedek Bağlantı
+#### https://threatdetect.unaux.com/
 
 https://github.com/user-attachments/assets/294f5115-69a4-4f9c-877e-1a9665eb4892
 
