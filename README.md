@@ -14,7 +14,7 @@
 
 #### Bu araç, özellikle siber güvenlik uzmanları ve bilinçli internet kullanıcıları için geliştirilmiş olup, güvenliğinizi artırmanıza yardımcı olur. Şüpheli bağlantıları analiz ederek riskleri önceden tespit edebilir ve internet deneyiminizi daha güvenli hale getirebilirsiniz.
 
-#### 💡 Bağlantılarınızı şimdi kontrol edin ve güvende kalın!
+#### 💡 Bağlantılarınızı şimdi kontrol edin ve güvende kalın.
 
 ### Proje Bağlantısı
 #### https://threatdetect.rf.gd/
